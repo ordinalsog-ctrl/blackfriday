@@ -1,0 +1,21 @@
+﻿product_id,name,imported_price_points,observed_days,approved_price_points,earliest,latest,target_days,missing_observation_days,normal_price_ready
+BF-0001,Samsung Galaxy A56 5G 128 GB Awesome Graphite,1,1,0,2026-09-11T01:44:00,2026-09-11T01:44:00,21,20,NO
+BF-0011,Apple iPad 11. Gen (2025) Wi-Fi 128 GB Silber,0,0,0,,,21,21,NO
+BF-0021,Apple AirPods 4 mit ANC,1,1,0,2026-11-12T03:39:00,2026-11-12T03:39:00,21,20,NO
+BF-0024,Sony WH-1000XM5 Black,1,1,0,2026-09-10T20:02:00,2026-09-10T20:02:00,21,20,NO
+BF-0102,Bosch Unlimited 7 BCS711XXL,0,0,0,,,21,21,NO
+BF-0101,Dyson V12 Detect Slim Absolute (2026),0,0,0,,,21,21,NO
+BF-0107,Kärcher WD 3 V-17/4/20,0,0,0,,,21,21,NO
+BF-0109,Roborock Qrevo S Weiß,1,1,0,2026-09-11T09:59:00,2026-09-11T09:59:00,21,20,NO
+BF-0202,"Ninja Foodi Dual Zone AF300EU 7,6 l",0,0,0,,,21,21,NO
+BF-0203,"Philips Airfryer Essential HD9252/90 4,1 l",1,1,0,2026-09-02T20:48:00,2026-09-02T20:48:00,21,20,NO
+BF-0211,DeLonghi Magnifica S Kaffeevollautomat schwarz,0,0,0,,,21,21,NO
+BF-0221,DeLonghi Nespresso Essenza Mini schwarz,1,1,0,2026-09-11T14:05:00,2026-09-11T14:05:00,21,20,NO
+BF-0301,Nivea Soft erfrischende Feuchtigkeitscreme 200 ml,0,0,0,,,21,21,NO
+BF-0303,CeraVe Moisturising Cream 177 ml,0,0,0,,,21,21,NO
+BF-0314,Garnier Mizellen Reinigungswasser All-in-1 empfindliche Haut 400 ml,0,0,0,,,21,21,NO
+BF-0321,The Ordinary Niacinamide 10% + Zinc 1% 30 ml,0,0,0,,,21,21,NO
+BF-0403,Oral-B iO Series 3 Matte Black,0,0,0,,,21,21,NO
+BF-0405,Philips Sonicare 3100 schwarz,0,0,0,,,21,21,NO
+BF-0431,Braun ThermoScan 7,0,0,0,,,21,21,NO
+BF-0421,Omron M3 Comfort Oberarm,0,0,0,,,21,21,NO

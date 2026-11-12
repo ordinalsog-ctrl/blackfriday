@@ -1,0 +1,20 @@
+# Local prices, imported responses and any future sensitive data
+*.sqlite
+*.sqlite3
+*.db
+*.db-*
+*.sqlite-*
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+logs/
+exports/
+raw/
+local_data/
+*.log

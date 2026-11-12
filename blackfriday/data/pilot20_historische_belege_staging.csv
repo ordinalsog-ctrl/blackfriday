@@ -1,0 +1,5 @@
+﻿product_id,source_name,source_url,observed_at,country_code,currency,item_price_cents,shipping_cents,availability,price_kind,evidence_comment
+BF-0021,idealo.de (manuell geprüfter Snapshot),https://www.idealo.de/preisvergleich/OffersOfProduct/204771908_-airpods-4-anc-apple.html,2026-11-12T03:39:00,DE,EUR,12899,0,IN_STOCK,HISTORICAL_POINT,"Gelistetes Angebot 128,99 € inkl. Versand"
+BF-0109,idealo.de (manuell geprüfter Snapshot),https://www.idealo.de/preisvergleich/OffersOfProduct/204405361_-qrevo-s-roborock.html,2026-09-11T09:59:00,DE,EUR,34797,0,IN_STOCK,HISTORICAL_POINT,"347,97 € inkl. Versand; Setabweichung beachten"
+BF-0203,idealo.de (manuell geprüfter Snapshot),https://www.idealo.de/preisvergleich/OffersOfProduct/204449576_-hd9252-90-schwarz-philips.html,2026-09-02T20:48:00,DE,EUR,9990,495,IN_STOCK,HISTORICAL_POINT,"99,90 € + 4,95 €, Quellenstand 02.09."
+BF-0221,idealo.de (manuell geprüfter Snapshot),https://www.idealo.de/preisvergleich/OffersOfProduct/5707400_-essenza-mini-en85-delonghi.html,2026-09-11T14:05:00,DE,EUR,6590,0,IN_STOCK,HISTORICAL_POINT,"Günstigster Gesamtpreis 65,90 €, Artikelpreis-Minimum 63,99 € bei anderem Händler"

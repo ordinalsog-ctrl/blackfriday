@@ -1,0 +1,501 @@
+﻿product_id,category,subcategory,candidate_name,brand_hint,gtin,manufacturer_part_number,exact_model,quantity_value,quantity_unit,variant_attributes,popularity_evidence,product_source_url,validation_status,validation_notes
+BF-0001,Elektronik,Smartphones,Samsung Galaxy A-Serie 128 GB,Samsung,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0002,Elektronik,Smartphones,Samsung Galaxy S-Serie 256 GB,Samsung,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0003,Elektronik,Smartphones,Apple iPhone Standard 128 GB,Apple,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0004,Elektronik,Smartphones,Apple iPhone Pro 256 GB,Apple,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0005,Elektronik,Smartphones,Google Pixel a-Serie 128 GB,Google,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0006,Elektronik,Smartphones,Google Pixel Standard 128 GB,Google,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0007,Elektronik,Smartphones,Xiaomi Redmi Note 128 GB,Xiaomi,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0008,Elektronik,Smartphones,Xiaomi Redmi Note 256 GB,Xiaomi,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0009,Elektronik,Smartphones,Motorola Moto G 128 GB,Motorola,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0010,Elektronik,Smartphones,Nothing Phone a-Serie 128 GB,Nothing,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0011,Elektronik,Tablets,Apple iPad Standard Wi-Fi 128 GB,Apple,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0012,Elektronik,Tablets,Apple iPad Air 11 Zoll Wi-Fi,Apple,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0013,Elektronik,Tablets,Samsung Galaxy Tab A 64 GB,Samsung,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0014,Elektronik,Tablets,Samsung Galaxy Tab S FE 128 GB,Samsung,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0015,Elektronik,Tablets,Lenovo Tab 10 Zoll 64 GB,Lenovo,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0016,Elektronik,Tablets,Xiaomi Redmi Pad 128 GB,Xiaomi,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0017,Elektronik,Tablets,Amazon Fire HD 10 32 GB,Amazon,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0018,Elektronik,Tablets,Amazon Fire HD 8 32 GB,Amazon,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0019,Elektronik,Tablets,Apple iPad mini Wi-Fi 128 GB,Apple,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0020,Elektronik,Tablets,Samsung Galaxy Tab Active 128 GB,Samsung,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0021,Elektronik,Kopfhörer,Apple AirPods Standard,Apple,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0022,Elektronik,Kopfhörer,Apple AirPods Pro,Apple,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0023,Elektronik,Kopfhörer,Samsung Galaxy Buds FE,Samsung,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0024,Elektronik,Kopfhörer,Sony WH-1000X Serie,Sony,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0025,Elektronik,Kopfhörer,Sony WF-1000X Serie,Sony,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0026,Elektronik,Kopfhörer,JBL Tune Over-Ear Bluetooth,JBL,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0027,Elektronik,Kopfhörer,JBL Wave In-Ear,JBL,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0028,Elektronik,Kopfhörer,Soundcore Liberty In-Ear,Soundcore,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0029,Elektronik,Kopfhörer,Sennheiser Momentum Wireless,Sennheiser,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0030,Elektronik,Kopfhörer,Bose QuietComfort Kopfhörer,Bose,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0031,Elektronik,Fernseher,Samsung Crystal UHD 43 Zoll,Samsung,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0032,Elektronik,Fernseher,Samsung QLED 55 Zoll,Samsung,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0033,Elektronik,Fernseher,LG OLED 55 Zoll,LG,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0034,Elektronik,Fernseher,LG UHD 43 Zoll,LG,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0035,Elektronik,Fernseher,Sony Bravia LED 55 Zoll,Sony,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0036,Elektronik,Fernseher,Philips Ambilight 55 Zoll,Philips,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0037,Elektronik,Fernseher,TCL QLED 55 Zoll,TCL,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0038,Elektronik,Fernseher,Hisense ULED 55 Zoll,Hisense,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0039,Elektronik,Fernseher,Panasonic LED 43 Zoll,Panasonic,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0040,Elektronik,Fernseher,Xiaomi TV 43 Zoll,Xiaomi,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0041,Elektronik,Monitore,Dell Office IPS 24 Zoll FHD,Dell,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0042,Elektronik,Monitore,Dell Office IPS 27 Zoll QHD,Dell,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0043,Elektronik,Monitore,LG Gaming 27 Zoll QHD,LG,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0044,Elektronik,Monitore,Samsung Curved 27 Zoll FHD,Samsung,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0045,Elektronik,Monitore,AOC Gaming 24 Zoll FHD,AOC,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0046,Elektronik,Monitore,ASUS ProArt 27 Zoll,ASUS,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0047,Elektronik,Monitore,BenQ Office 24 Zoll,BenQ,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0048,Elektronik,Monitore,Philips Ultrawide 34 Zoll,Philips,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0049,Elektronik,Monitore,MSI Gaming 27 Zoll,MSI,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0050,Elektronik,Monitore,Lenovo ThinkVision 24 Zoll,Lenovo,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0051,Elektronik,Computerzubehör,Logitech MX Master Maus,Logitech,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0052,Elektronik,Computerzubehör,Logitech M185 Funkmaus,Logitech,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0053,Elektronik,Computerzubehör,Logitech K380 Tastatur,Logitech,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0054,Elektronik,Computerzubehör,Keychron mechanische Tastatur,Keychron,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0055,Elektronik,Computerzubehör,Anker USB-C Hub 7-in-1,Anker,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0056,Elektronik,Computerzubehör,UGREEN USB-C Dockingstation,UGREEN,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0057,Elektronik,Computerzubehör,SanDisk USB-Stick 128 GB,SanDisk,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0058,Elektronik,Computerzubehör,Samsung Portable SSD 1 TB,Samsung,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0059,Elektronik,Computerzubehör,WD externe HDD 2 TB,WD,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0060,Elektronik,Computerzubehör,TP-Link USB-WLAN-Adapter,TP-Link,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0061,Elektronik,Netzwerk,AVM FRITZ!Box DSL-Router,AVM,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0062,Elektronik,Netzwerk,AVM FRITZ!Repeater,AVM,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0063,Elektronik,Netzwerk,TP-Link Archer WLAN-Router,TP-Link,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0064,Elektronik,Netzwerk,TP-Link Deco Mesh Set 2er,TP-Link,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0065,Elektronik,Netzwerk,Netgear WLAN-Repeater,Netgear,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0066,Elektronik,Netzwerk,D-Link Gigabit Switch 8-Port,D-Link,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0067,Elektronik,Netzwerk,Ubiquiti UniFi Access Point,Ubiquiti,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0068,Elektronik,Netzwerk,TP-Link Powerline 2er Set,TP-Link,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0069,Elektronik,Netzwerk,ASUS WLAN-Router,ASUS,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0070,Elektronik,Netzwerk,Anker USB-C Ethernet-Adapter,Anker,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0071,Elektronik,Smart Home,Philips Hue E27 Einzellicht,Philips,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0072,Elektronik,Smart Home,Philips Hue E27 2er Set,Philips,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0073,Elektronik,Smart Home,IKEA TRÅDFRI E27,IKEA,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0074,Elektronik,Smart Home,TP-Link Tapo WLAN-Steckdose,TP-Link,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0075,Elektronik,Smart Home,Amazon Echo Dot Lautsprecher,Amazon,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0076,Elektronik,Smart Home,Amazon Echo Show Display,Amazon,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0077,Elektronik,Smart Home,Google Nest Mini Lautsprecher,Google,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0078,Elektronik,Smart Home,Ring Video-Türklingel,Ring,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0079,Elektronik,Smart Home,Eve Energy Smart-Steckdose,Eve,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0080,Elektronik,Smart Home,tado Smartes Heizkörperthermostat,tado,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0081,Elektronik,Gaming,Sony DualSense Controller,Sony,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0082,Elektronik,Gaming,Microsoft Xbox Wireless Controller,Microsoft,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0083,Elektronik,Gaming,Nintendo Switch Pro Controller,Nintendo,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0084,Elektronik,Gaming,Logitech G Gaming-Maus,Logitech,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0085,Elektronik,Gaming,Razer DeathAdder Gaming-Maus,Razer,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0086,Elektronik,Gaming,SteelSeries Gaming-Headset,SteelSeries,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0087,Elektronik,Gaming,HyperX Cloud Gaming-Headset,HyperX,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0088,Elektronik,Gaming,Seagate Gaming-SSD 1 TB,Seagate,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0089,Elektronik,Gaming,Nintendo Switch Transporttasche,Nintendo,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0090,Elektronik,Gaming,Elgato Stream Deck,Elgato,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0091,Elektronik,Laden & Strom,Anker USB-C Netzteil 20 W,Anker,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0092,Elektronik,Laden & Strom,Anker USB-C Netzteil 65 W,Anker,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0093,Elektronik,Laden & Strom,UGREEN GaN Netzteil 65 W,UGREEN,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0094,Elektronik,Laden & Strom,Apple USB-C Netzteil 20 W,Apple,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0095,Elektronik,Laden & Strom,Samsung USB-C Netzteil 25 W,Samsung,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0096,Elektronik,Laden & Strom,Belkin Qi2 Ladepad,Belkin,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0097,Elektronik,Laden & Strom,Anker Powerbank 10000 mAh,Anker,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0098,Elektronik,Laden & Strom,Anker Powerbank 20000 mAh,Anker,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0099,Elektronik,Laden & Strom,Brennenstuhl Steckdosenleiste 6-fach,Brennenstuhl,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0100,Elektronik,Laden & Strom,Varta AA Batterien 20er,Varta,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0101,Haushalt,Bodenreinigung,Dyson Akkustaubsauger V-Serie,Dyson,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0102,Haushalt,Bodenreinigung,Bosch Unlimited Akkustaubsauger,Bosch,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0103,Haushalt,Bodenreinigung,Miele Bodenstaubsauger mit Beutel,Miele,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0104,Haushalt,Bodenreinigung,Philips Bodenstaubsauger beutellos,Philips,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0105,Haushalt,Bodenreinigung,AEG Akkustaubsauger,AEG,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0106,Haushalt,Bodenreinigung,Rowenta Bodenstaubsauger,Rowenta,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0107,Haushalt,Bodenreinigung,Kärcher Nass-Trockensauger,Kärcher,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0108,Haushalt,Bodenreinigung,iRobot Roomba Saugroboter,iRobot,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0109,Haushalt,Bodenreinigung,Roborock Saugroboter,Roborock,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0110,Haushalt,Bodenreinigung,Ecovacs Deebot Saugroboter,Ecovacs,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0111,Haushalt,Wäschepflegegeräte,Bosch Waschmaschine 8 kg,Bosch,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0112,Haushalt,Wäschepflegegeräte,Siemens Waschmaschine 9 kg,Siemens,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0113,Haushalt,Wäschepflegegeräte,AEG Waschmaschine 8 kg,AEG,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0114,Haushalt,Wäschepflegegeräte,Samsung Waschmaschine 9 kg,Samsung,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0115,Haushalt,Wäschepflegegeräte,LG Waschmaschine 9 kg,LG,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0116,Haushalt,Wäschepflegegeräte,Beko Waschmaschine 8 kg,Beko,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0117,Haushalt,Wäschepflegegeräte,Bosch Wärmepumpentrockner 8 kg,Bosch,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0118,Haushalt,Wäschepflegegeräte,Siemens Wärmepumpentrockner 9 kg,Siemens,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0119,Haushalt,Wäschepflegegeräte,AEG Wärmepumpentrockner 8 kg,AEG,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0120,Haushalt,Wäschepflegegeräte,Beko Wärmepumpentrockner 8 kg,Beko,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0121,Haushalt,Bügeln,Philips Dampfbügeleisen 2400 W,Philips,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0122,Haushalt,Bügeln,Tefal Dampfbügeleisen 2600 W,Tefal,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0123,Haushalt,Bügeln,Braun Dampfbügeleisen 2400 W,Braun,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0124,Haushalt,Bügeln,Russell Hobbs Dampfbügeleisen,Russell,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0125,Haushalt,Bügeln,Philips Dampfbügelstation,Philips,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0126,Haushalt,Bügeln,Tefal Dampfbügelstation,Tefal,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0127,Haushalt,Bügeln,Leifheit Bügelbrett,Leifheit,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0128,Haushalt,Bügeln,Vileda Bügelbrett,Vileda,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0129,Haushalt,Bügeln,Braun Textildampfer,Braun,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0130,Haushalt,Bügeln,Philips Steamer Handgerät,Philips,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0131,Haushalt,Raumklima,Philips Luftreiniger,Philips,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0132,Haushalt,Raumklima,Levoit Luftreiniger,Levoit,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0133,Haushalt,Raumklima,Xiaomi Luftreiniger,Xiaomi,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0134,Haushalt,Raumklima,Beurer Luftbefeuchter,Beurer,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0135,Haushalt,Raumklima,Venta Luftwäscher,Venta,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0136,Haushalt,Raumklima,DeLonghi Luftentfeuchter,DeLonghi,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0137,Haushalt,Raumklima,Comfee Luftentfeuchter,Comfee,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0138,Haushalt,Raumklima,Rowenta Standventilator,Rowenta,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0139,Haushalt,Raumklima,Honeywell Tischventilator,Honeywell,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0140,Haushalt,Raumklima,Dreo Turmventilator,Dreo,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0141,Haushalt,Reinigungsmittel,Ariel Vollwaschmittel Pulver 5 kg,Ariel,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0142,Haushalt,Reinigungsmittel,Persil Colorwaschmittel Flüssig 2 l,Persil,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0143,Haushalt,Reinigungsmittel,Spee Waschmittel Flüssig 2 l,Spee,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0144,Haushalt,Reinigungsmittel,Frosch Universalreiniger 1 l,Frosch,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0145,Haushalt,Reinigungsmittel,Sagrotan Allzweckreiniger 750 ml,Sagrotan,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0146,Haushalt,Reinigungsmittel,Cillit Bang Kalkreiniger 750 ml,Cillit,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0147,Haushalt,Reinigungsmittel,Bref WC-Reiniger 750 ml,Bref,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0148,Haushalt,Reinigungsmittel,Somat Spülmaschinentabs 60 Stück,Somat,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0149,Haushalt,Reinigungsmittel,Finish Spülmaschinentabs 60 Stück,Finish,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0150,Haushalt,Reinigungsmittel,Pril Handspülmittel 750 ml,Pril,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0151,Haushalt,Putzmaterial,Vileda Mikrofasertücher 5er,Vileda,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0152,Haushalt,Putzmaterial,Vileda Wischmopp Set,Vileda,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0153,Haushalt,Putzmaterial,Leifheit Wischer Set,Leifheit,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0154,Haushalt,Putzmaterial,Swiffer Staubtücher Nachfüllpack,Swiffer,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0155,Haushalt,Putzmaterial,Vileda Spülschwämme 10er,Vileda,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0156,Haushalt,Putzmaterial,Spontex Haushaltsschwämme 10er,Spontex,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0157,Haushalt,Putzmaterial,Frosch Putztücher 5er,Frosch,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0158,Haushalt,Putzmaterial,Leifheit Fensterabzieher,Leifheit,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0159,Haushalt,Putzmaterial,Kärcher Fenstersauger,Kärcher,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0160,Haushalt,Putzmaterial,Vileda Eimer 10 l,Vileda,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0161,Haushalt,Papier & Hygiene,Zewa Küchenrollen 8er,Zewa,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0162,Haushalt,Papier & Hygiene,Tempo Taschentücher 30x10,Tempo,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0163,Haushalt,Papier & Hygiene,Hakle Toilettenpapier 16 Rollen,Hakle,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0164,Haushalt,Papier & Hygiene,Zewa Toilettenpapier 16 Rollen,Zewa,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0165,Haushalt,Papier & Hygiene,Kleenex Kosmetiktücher 80er,Kleenex,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0166,Haushalt,Papier & Hygiene,Regina Küchenrolle 8er,Regina,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0167,Haushalt,Papier & Hygiene,Danke Recycling-Toilettenpapier 16 Rollen,Danke,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0168,Haushalt,Papier & Hygiene,Tork Papierhandtücher 250er,Tork,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0169,Haushalt,Papier & Hygiene,Swirl Müllbeutel 35 l 20er,Swirl,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0170,Haushalt,Papier & Hygiene,Pely Müllbeutel 60 l 20er,Pely,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0171,Haushalt,Aufbewahrung,IKEA SAMLA Box 22 l,IKEA,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0172,Haushalt,Aufbewahrung,IKEA SAMLA Box 45 l,IKEA,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0173,Haushalt,Aufbewahrung,Rotho Aufbewahrungsbox 20 l,Rotho,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0174,Haushalt,Aufbewahrung,Rotho Aufbewahrungsbox 40 l,Rotho,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0175,Haushalt,Aufbewahrung,Curver Wäschekorb 45 l,Curver,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0176,Haushalt,Aufbewahrung,Wenko Schuhregal,Wenko,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0177,Haushalt,Aufbewahrung,IKEA SKUBB Organizer Set,IKEA,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0178,Haushalt,Aufbewahrung,Leifheit Wäschespinne,Leifheit,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0179,Haushalt,Aufbewahrung,Brabantia Treteimer 20 l,Brabantia,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0180,Haushalt,Aufbewahrung,Simplehuman Treteimer 30 l,Simplehuman,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0181,Haushalt,Beleuchtung,Philips LED E27 806 lm 3er,Philips,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0182,Haushalt,Beleuchtung,Osram LED E27 806 lm 3er,Osram,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0183,Haushalt,Beleuchtung,Philips LED GU10 3er,Philips,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0184,Haushalt,Beleuchtung,Osram LED GU10 3er,Osram,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0185,Haushalt,Beleuchtung,IKEA LEDARE E27,IKEA,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0186,Haushalt,Beleuchtung,Paulmann LED Einbauleuchte,Paulmann,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0187,Haushalt,Beleuchtung,Brennenstuhl LED Arbeitsleuchte,Brennenstuhl,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0188,Haushalt,Beleuchtung,Philips LED Schreibtischlampe,Philips,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0189,Haushalt,Beleuchtung,IKEA TERTIAL Arbeitsleuchte,IKEA,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0190,Haushalt,Beleuchtung,Ledvance LED Lichtleiste,Ledvance,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0191,Haushalt,Haushaltskleingeräte,Kärcher Dampfreiniger,Kärcher,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0192,Haushalt,Haushaltskleingeräte,Vileda Dampfmopp,Vileda,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0193,Haushalt,Haushaltskleingeräte,Leifheit Fenstersauger,Leifheit,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0194,Haushalt,Haushaltskleingeräte,Bosch Handstaubsauger,Bosch,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0195,Haushalt,Haushaltskleingeräte,Black+Decker Handstaubsauger,Black+Decker,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0196,Haushalt,Haushaltskleingeräte,Philips Fusselrasierer,Philips,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0197,Haushalt,Haushaltskleingeräte,Severin Fusselrasierer,Severin,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0198,Haushalt,Haushaltskleingeräte,Leifheit Wäscheständer,Leifheit,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0199,Haushalt,Haushaltskleingeräte,Vileda Wäscheständer,Vileda,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0200,Haushalt,Haushaltskleingeräte,Bosch Akku-Fensterreiniger,Bosch,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0201,Küche,Heißluftfritteusen,Ninja Airfryer 4 l,Ninja,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0202,Küche,Heißluftfritteusen,Ninja Airfryer Dual Zone 7 l,Ninja,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0203,Küche,Heißluftfritteusen,Philips Airfryer 4 l,Philips,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0204,Küche,Heißluftfritteusen,Philips Airfryer XXL 7 l,Philips,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0205,Küche,Heißluftfritteusen,"Cosori Airfryer 5,5 l",Cosori,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0206,Küche,Heißluftfritteusen,Cosori Airfryer Dual Basket,Cosori,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0207,Küche,Heißluftfritteusen,Tefal Easy Fry 4 l,Tefal,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0208,Küche,Heißluftfritteusen,Russell Hobbs Airfryer 5 l,Russell,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0209,Küche,Heißluftfritteusen,Xiaomi Smart Air Fryer 4 l,Xiaomi,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0210,Küche,Heißluftfritteusen,Severin Airfryer 5 l,Severin,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0211,Küche,Kaffeevollautomaten,DeLonghi Magnifica Kaffeevollautomat,DeLonghi,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0212,Küche,Kaffeevollautomaten,DeLonghi Dinamica Kaffeevollautomat,DeLonghi,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0213,Küche,Kaffeevollautomaten,Philips LatteGo Kaffeevollautomat,Philips,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0214,Küche,Kaffeevollautomaten,Siemens EQ Kaffeevollautomat,Siemens,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0215,Küche,Kaffeevollautomaten,Melitta Solo Kaffeevollautomat,Melitta,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0216,Küche,Kaffeevollautomaten,Krups Evidence Kaffeevollautomat,Krups,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0217,Küche,Kaffeevollautomaten,Jura E-Serie Kaffeevollautomat,Jura,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0218,Küche,Kaffeevollautomaten,Bosch VeroCafe Kaffeevollautomat,Bosch,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0219,Küche,Kaffeevollautomaten,Nivona CafeRomatica Kaffeevollautomat,Nivona,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0220,Küche,Kaffeevollautomaten,Saeco GranAroma Kaffeevollautomat,Saeco,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0221,Küche,Kaffeezubereitung,Nespresso Essenza Mini Kapselmaschine,Nespresso,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0222,Küche,Kaffeezubereitung,Nespresso Vertuo Pop Kapselmaschine,Nespresso,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0223,Küche,Kaffeezubereitung,Dolce Gusto Piccolo Kapselmaschine,Dolce,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0224,Küche,Kaffeezubereitung,Senseo Original Padmaschine,Senseo,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0225,Küche,Kaffeezubereitung,Melitta Filterkaffeemaschine,Melitta,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0226,Küche,Kaffeezubereitung,Braun PurAroma Filterkaffeemaschine,Braun,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0227,Küche,Kaffeezubereitung,Moccamaster Filterkaffeemaschine,Moccamaster,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0228,Küche,Kaffeezubereitung,Bialetti Moka Express 3 Tassen,Bialetti,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0229,Küche,Kaffeezubereitung,Bodum French Press 1 l,Bodum,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0230,Küche,Kaffeezubereitung,Hario V60 Handfilter Set,Hario,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0231,Küche,Wasserkocher & Toaster,"Bosch Wasserkocher 1,7 l",Bosch,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0232,Küche,Wasserkocher & Toaster,"Philips Wasserkocher 1,7 l",Philips,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0233,Küche,Wasserkocher & Toaster,"Russell Hobbs Wasserkocher 1,7 l",Russell,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0234,Küche,Wasserkocher & Toaster,"WMF Wasserkocher 1,7 l",WMF,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0235,Küche,Wasserkocher & Toaster,"Severin Wasserkocher 1,7 l",Severin,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0236,Küche,Wasserkocher & Toaster,Bosch Toaster 2 Scheiben,Bosch,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0237,Küche,Wasserkocher & Toaster,Philips Toaster 2 Scheiben,Philips,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0238,Küche,Wasserkocher & Toaster,WMF Toaster 2 Scheiben,WMF,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0239,Küche,Wasserkocher & Toaster,Russell Hobbs Toaster 4 Scheiben,Russell,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0240,Küche,Wasserkocher & Toaster,Smeg Toaster 2 Scheiben,Smeg,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0241,Küche,Mixer & Blender,Braun MultiQuick Stabmixer,Braun,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0242,Küche,Mixer & Blender,Bosch ErgoMixx Stabmixer,Bosch,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0243,Küche,Mixer & Blender,"Philips Standmixer 1,5 l",Philips,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0244,Küche,Mixer & Blender,Ninja Foodi Blender,Ninja,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0245,Küche,Mixer & Blender,NutriBullet Personal Blender,NutriBullet,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0246,Küche,Mixer & Blender,WMF Kult X Smoothie Maker,WMF,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0247,Küche,Mixer & Blender,KitchenAid Standmixer,KitchenAid,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0248,Küche,Mixer & Blender,Bosch Handmixer,Bosch,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0249,Küche,Mixer & Blender,Krups Handmixer,Krups,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0250,Küche,Mixer & Blender,Braun Zerkleinerer 500 ml,Braun,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0251,Küche,Küchenmaschinen,KitchenAid Artisan Küchenmaschine,KitchenAid,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0252,Küche,Küchenmaschinen,Bosch MUM Küchenmaschine,Bosch,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0253,Küche,Küchenmaschinen,Kenwood Chef Küchenmaschine,Kenwood,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0254,Küche,Küchenmaschinen,Kenwood kMix Küchenmaschine,Kenwood,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0255,Küche,Küchenmaschinen,Ankarsrum Küchenmaschine,Ankarsrum,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0256,Küche,Küchenmaschinen,WMF Küchenminis Küchenmaschine,WMF,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0257,Küche,Küchenmaschinen,Bosch Cookit Multikocher,Bosch,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0258,Küche,Küchenmaschinen,Monsieur Cuisine Multikocher,Monsieur,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0259,Küche,Küchenmaschinen,Ninja Multikocher,Ninja,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0260,Küche,Küchenmaschinen,Instant Pot Multikocher,Instant,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0261,Küche,Kochgeschirr,WMF Kochtopfset 4-teilig,WMF,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0262,Küche,Kochgeschirr,Fissler Kochtopfset 5-teilig,Fissler,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0263,Küche,Kochgeschirr,Tefal Pfanne 28 cm,Tefal,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0264,Küche,Kochgeschirr,WMF Pfanne 28 cm,WMF,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0265,Küche,Kochgeschirr,Fissler Pfanne 28 cm,Fissler,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0266,Küche,Kochgeschirr,Le Creuset Bräter 24 cm,Le,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0267,Küche,Kochgeschirr,Staub Bräter 24 cm,Staub,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0268,Küche,Kochgeschirr,IKEA 365+ Topf 3 l,IKEA,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0269,Küche,Kochgeschirr,Zwilling Kochtopf 3 l,Zwilling,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0270,Küche,Kochgeschirr,"Silit Schnellkochtopf 4,5 l",Silit,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0271,Küche,Messer & Küchenhelfer,Zwilling Kochmesser 20 cm,Zwilling,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0272,Küche,Messer & Küchenhelfer,WMF Kochmesser 20 cm,WMF,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0273,Küche,Messer & Küchenhelfer,Victorinox Santokumesser,Victorinox,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0274,Küche,Messer & Küchenhelfer,Wüsthof Kochmesser 20 cm,Wüsthof,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0275,Küche,Messer & Küchenhelfer,IKEA Schneidebrett Bambus,IKEA,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0276,Küche,Messer & Küchenhelfer,Joseph Joseph Schneidebrett Set,Joseph,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0277,Küche,Messer & Küchenhelfer,Microplane Küchenreibe,Microplane,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0278,Küche,Messer & Küchenhelfer,OXO Sparschäler,OXO,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0279,Küche,Messer & Küchenhelfer,WMF Küchenwaage,WMF,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0280,Küche,Messer & Küchenhelfer,Emsa Salatschleuder,Emsa,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0281,Küche,Backen,Dr Oetker Springform 26 cm,Dr,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0282,Küche,Backen,Kaiser Springform 26 cm,Kaiser,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0283,Küche,Backen,Zenker Kastenform 30 cm,Zenker,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0284,Küche,Backen,WMF Backblech,WMF,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0285,Küche,Backen,Dr Oetker Muffinblech 12er,Dr,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0286,Küche,Backen,Kenwood Küchenwaage,Kenwood,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0287,Küche,Backen,Soehnle Küchenwaage,Soehnle,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0288,Küche,Backen,Bosch Handrührgerät,Bosch,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0289,Küche,Backen,Silpat Backmatte,Silpat,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0290,Küche,Backen,Rösle Teigschaber,Rösle,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0291,Küche,Lebensmittelaufbewahrung,Emsa Frischhaltedosen 3er,Emsa,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0292,Küche,Lebensmittelaufbewahrung,LocknLock Vorratsdosen 4er,LocknLock,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0293,Küche,Lebensmittelaufbewahrung,IKEA 365+ Glasbehälter,IKEA,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0294,Küche,Lebensmittelaufbewahrung,Tupperware Vorratsdose 1 l,Tupperware,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0295,Küche,Lebensmittelaufbewahrung,Zwilling Fresh Save Vakuumset,Zwilling,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0296,Küche,Lebensmittelaufbewahrung,Emsa Thermobecher 360 ml,Emsa,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0297,Küche,Lebensmittelaufbewahrung,Stanley Thermobecher 470 ml,Stanley,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0298,Küche,Lebensmittelaufbewahrung,SodaStream Wassersprudler,SodaStream,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0299,Küche,Lebensmittelaufbewahrung,Brita Wasserfilterkanne,Brita,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0300,Küche,Lebensmittelaufbewahrung,Brita MAXTRA Filterkartuschen 6er,Brita,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0301,Kosmetik,Gesichtspflege,Nivea Soft Creme 200 ml,Nivea,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0302,Kosmetik,Gesichtspflege,Nivea Creme 250 ml,Nivea,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0303,Kosmetik,Gesichtspflege,CeraVe Feuchtigkeitscreme 177 ml,CeraVe,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0304,Kosmetik,Gesichtspflege,La Roche-Posay Toleriane Creme 40 ml,La,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0305,Kosmetik,Gesichtspflege,Neutrogena Hydro Boost Gel 50 ml,Neutrogena,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0306,Kosmetik,Gesichtspflege,Eucerin UreaRepair Gesichtscreme,Eucerin,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0307,Kosmetik,Gesichtspflege,LOréal Revitalift Tagescreme 50 ml,LOréal,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0308,Kosmetik,Gesichtspflege,Garnier SkinActive Feuchtigkeitscreme,Garnier,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0309,Kosmetik,Gesichtspflege,Weleda Skin Food 75 ml,Weleda,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0310,Kosmetik,Gesichtspflege,Balea Med Ultra Sensitive Creme 50 ml,Balea,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0311,Kosmetik,Gesichtsreinigung,CeraVe schäumendes Reinigungsgel 236 ml,CeraVe,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0312,Kosmetik,Gesichtsreinigung,CeraVe feuchtigkeitsspendende Reinigung 236 ml,CeraVe,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0313,Kosmetik,Gesichtsreinigung,La Roche-Posay Effaclar Gel 200 ml,La,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0314,Kosmetik,Gesichtsreinigung,Garnier Mizellenwasser 400 ml,Garnier,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0315,Kosmetik,Gesichtsreinigung,Nivea Mizellenwasser 400 ml,Nivea,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0316,Kosmetik,Gesichtsreinigung,Bioderma Sensibio H2O 500 ml,Bioderma,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0317,Kosmetik,Gesichtsreinigung,Neutrogena Reinigungsgel 200 ml,Neutrogena,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0318,Kosmetik,Gesichtsreinigung,Balea Waschgel 150 ml,Balea,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0319,Kosmetik,Gesichtsreinigung,Eucerin DermatoClean Reinigung 200 ml,Eucerin,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0320,Kosmetik,Gesichtsreinigung,The Ordinary Squalane Cleanser 50 ml,The,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0321,Kosmetik,Seren,The Ordinary Niacinamide Serum 30 ml,The,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0322,Kosmetik,Seren,The Ordinary Hyaluronic Acid Serum 30 ml,The,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0323,Kosmetik,Seren,The Ordinary Retinol Serum 30 ml,The,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0324,Kosmetik,Seren,Garnier Vitamin C Serum 30 ml,Garnier,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0325,Kosmetik,Seren,LOréal Revitalift Serum 30 ml,LOréal,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0326,Kosmetik,Seren,La Roche-Posay Hyalu B5 Serum 30 ml,La,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0327,Kosmetik,Seren,Vichy Mineral 89 Serum 50 ml,Vichy,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0328,Kosmetik,Seren,Nivea Cellular Serum 30 ml,Nivea,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0329,Kosmetik,Seren,Balea Beauty Expert Serum 30 ml,Balea,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0330,Kosmetik,Seren,CeraVe Resurfacing Retinol Serum 30 ml,CeraVe,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0331,Kosmetik,Sonnenschutz,Nivea Sun LSF 50 Lotion 200 ml,Nivea,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0332,Kosmetik,Sonnenschutz,Garnier Ambre Solaire LSF 50 200 ml,Garnier,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0333,Kosmetik,Sonnenschutz,La Roche-Posay Anthelios LSF 50 50 ml,La,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0334,Kosmetik,Sonnenschutz,Eucerin Sun Oil Control LSF 50 50 ml,Eucerin,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0335,Kosmetik,Sonnenschutz,Avène Sonnenfluid LSF 50 50 ml,Avène,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0336,Kosmetik,Sonnenschutz,Bioderma Photoderm LSF 50 40 ml,Bioderma,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0337,Kosmetik,Sonnenschutz,ISDIN Fusion Water LSF 50 50 ml,ISDIN,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0338,Kosmetik,Sonnenschutz,Hawaiian Tropic LSF 30 200 ml,Hawaiian,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0339,Kosmetik,Sonnenschutz,Nivea Sun Gesicht LSF 50 50 ml,Nivea,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0340,Kosmetik,Sonnenschutz,Sundance Sonnenmilch LSF 50 200 ml,Sundance,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0341,Kosmetik,Shampoo,Head & Shoulders Classic Clean 300 ml,Head,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0342,Kosmetik,Shampoo,Pantene Pro-V Shampoo 300 ml,Pantene,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0343,Kosmetik,Shampoo,LOréal Elvital Shampoo 300 ml,LOréal,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0344,Kosmetik,Shampoo,Garnier Fructis Shampoo 300 ml,Garnier,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0345,Kosmetik,Shampoo,Schwarzkopf Gliss Shampoo 250 ml,Schwarzkopf,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0346,Kosmetik,Shampoo,Nivea Shampoo 250 ml,Nivea,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0347,Kosmetik,Shampoo,Alpecin Coffein Shampoo 250 ml,Alpecin,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0348,Kosmetik,Shampoo,Sebamed Everyday Shampoo 200 ml,Sebamed,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0349,Kosmetik,Shampoo,Balea Professional Shampoo 250 ml,Balea,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0350,Kosmetik,Shampoo,OGX Argan Oil Shampoo 385 ml,OGX,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0351,Kosmetik,Haarpflege,Pantene Pro-V Spülung 200 ml,Pantene,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0352,Kosmetik,Haarpflege,LOréal Elvital Spülung 200 ml,LOréal,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0353,Kosmetik,Haarpflege,Garnier Fructis Spülung 200 ml,Garnier,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0354,Kosmetik,Haarpflege,Schwarzkopf Gliss Kur 200 ml,Schwarzkopf,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0355,Kosmetik,Haarpflege,Olaplex No 3 Hair Perfector 100 ml,Olaplex,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0356,Kosmetik,Haarpflege,Moroccanoil Treatment 100 ml,Moroccanoil,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0357,Kosmetik,Haarpflege,John Frieda Frizz Ease Serum,John,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0358,Kosmetik,Haarpflege,got2b Haarspray 300 ml,got2b,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0359,Kosmetik,Haarpflege,Taft Haarspray 250 ml,Taft,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0360,Kosmetik,Haarpflege,Balea Haaröl 100 ml,Balea,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0361,Kosmetik,Duschpflege,Nivea Duschgel 250 ml,Nivea,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0362,Kosmetik,Duschpflege,Dove Pflegedusche 250 ml,Dove,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0363,Kosmetik,Duschpflege,Duschdas Duschgel 225 ml,Duschdas,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0364,Kosmetik,Duschpflege,Sebamed Duschgel 200 ml,Sebamed,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0365,Kosmetik,Duschpflege,Balea Duschgel 300 ml,Balea,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0366,Kosmetik,Duschpflege,Kneipp Duschgel 200 ml,Kneipp,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0367,Kosmetik,Duschpflege,Weleda Duschgel 200 ml,Weleda,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0368,Kosmetik,Duschpflege,Palmolive Duschgel 250 ml,Palmolive,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0369,Kosmetik,Duschpflege,Original Source Duschgel 250 ml,Original,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0370,Kosmetik,Duschpflege,Nivea Men Duschgel 250 ml,Nivea,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0371,Kosmetik,Make-up Teint,Maybelline Fit Me Foundation 30 ml,Maybelline,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0372,Kosmetik,Make-up Teint,LOréal True Match Foundation 30 ml,LOréal,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0373,Kosmetik,Make-up Teint,Catrice HD Liquid Coverage Foundation,Catrice,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0374,Kosmetik,Make-up Teint,Essence Stay All Day Concealer,Essence,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0375,Kosmetik,Make-up Teint,Maybelline Instant Anti Age Concealer,Maybelline,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0376,Kosmetik,Make-up Teint,NYX Cant Stop Wont Stop Foundation,NYX,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0377,Kosmetik,Make-up Teint,Max Factor Facefinity Foundation,Max,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0378,Kosmetik,Make-up Teint,Catrice All Matt Puder,Catrice,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0379,Kosmetik,Make-up Teint,Essence Fixing Powder,Essence,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0380,Kosmetik,Make-up Teint,LOréal Infaillible Concealer,LOréal,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0381,Kosmetik,Make-up Augen & Lippen,Maybelline Lash Sensational Mascara,Maybelline,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0382,Kosmetik,Make-up Augen & Lippen,LOréal Lash Paradise Mascara,LOréal,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0383,Kosmetik,Make-up Augen & Lippen,Essence Lash Princess Mascara,Essence,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0384,Kosmetik,Make-up Augen & Lippen,Catrice Glam Doll Mascara,Catrice,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0385,Kosmetik,Make-up Augen & Lippen,Max Factor 2000 Calorie Mascara,Max,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0386,Kosmetik,Make-up Augen & Lippen,NYX Epic Ink Eyeliner,NYX,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0387,Kosmetik,Make-up Augen & Lippen,Maybelline SuperStay Lippenstift,Maybelline,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0388,Kosmetik,Make-up Augen & Lippen,LOréal Color Riche Lippenstift,LOréal,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0389,Kosmetik,Make-up Augen & Lippen,Essence Lip Gloss,Essence,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0390,Kosmetik,Make-up Augen & Lippen,Catrice Augenbrauenstift,Catrice,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0391,Kosmetik,Düfte & Deodorants,Nivea Deospray 150 ml,Nivea,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0392,Kosmetik,Düfte & Deodorants,Rexona Deospray 150 ml,Rexona,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0393,Kosmetik,Düfte & Deodorants,Dove Deospray 150 ml,Dove,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0394,Kosmetik,Düfte & Deodorants,Axe Bodyspray 150 ml,Axe,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0395,Kosmetik,Düfte & Deodorants,Old Spice Deostick 50 ml,Old,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0396,Kosmetik,Düfte & Deodorants,Nivea Deo Roll-on 50 ml,Nivea,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0397,Kosmetik,Düfte & Deodorants,Rituals Duschschaum 200 ml,Rituals,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0398,Kosmetik,Düfte & Deodorants,Calvin Klein CK One Eau de Toilette 100 ml,Calvin,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0399,Kosmetik,Düfte & Deodorants,Hugo Boss Bottled Eau de Toilette 100 ml,Hugo,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0400,Kosmetik,Düfte & Deodorants,Davidoff Cool Water Eau de Toilette 125 ml,Davidoff,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0401,Gesundheit,Elektrische Zahnbürsten,Oral-B Vitality Pro,Oral-B,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0402,Gesundheit,Elektrische Zahnbürsten,Oral-B Pro 3,Oral-B,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0403,Gesundheit,Elektrische Zahnbürsten,Oral-B iO Series 3,Oral-B,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0404,Gesundheit,Elektrische Zahnbürsten,Oral-B iO Series 6,Oral-B,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0405,Gesundheit,Elektrische Zahnbürsten,Philips Sonicare 3100,Philips,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0406,Gesundheit,Elektrische Zahnbürsten,Philips Sonicare 4100,Philips,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0407,Gesundheit,Elektrische Zahnbürsten,Philips Sonicare DiamondClean,Philips,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0408,Gesundheit,Elektrische Zahnbürsten,Oclean X Pro,Oclean,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0409,Gesundheit,Elektrische Zahnbürsten,Happybrush Schallzahnbürste,Happybrush,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0410,Gesundheit,Elektrische Zahnbürsten,Braun Oral-B Kids elektrische Zahnbürste,Braun,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0411,Gesundheit,Zahnpflege Verbrauch,Oral-B CrossAction Aufsteckbürsten 4er,Oral-B,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0412,Gesundheit,Zahnpflege Verbrauch,Oral-B iO Aufsteckbürsten 4er,Oral-B,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0413,Gesundheit,Zahnpflege Verbrauch,Philips Sonicare Aufsteckbürsten 4er,Philips,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0414,Gesundheit,Zahnpflege Verbrauch,Elmex Kariesschutz Zahncreme 75 ml,Elmex,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0415,Gesundheit,Zahnpflege Verbrauch,Sensodyne Repair Zahncreme 75 ml,Sensodyne,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0416,Gesundheit,Zahnpflege Verbrauch,Meridol Zahncreme 75 ml,Meridol,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0417,Gesundheit,Zahnpflege Verbrauch,Colgate Total Zahncreme 75 ml,Colgate,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0418,Gesundheit,Zahnpflege Verbrauch,Listerine Mundspülung 500 ml,Listerine,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0419,Gesundheit,Zahnpflege Verbrauch,Elmex Mundspülung 400 ml,Elmex,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0420,Gesundheit,Zahnpflege Verbrauch,TePe Interdentalbürsten 8er,TePe,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0421,Gesundheit,Blutdruckmessgeräte,Omron Oberarm-Blutdruckmessgerät M-Serie,Omron,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0422,Gesundheit,Blutdruckmessgeräte,Beurer Oberarm-Blutdruckmessgerät BM-Serie,Beurer,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0423,Gesundheit,Blutdruckmessgeräte,Braun Oberarm-Blutdruckmessgerät ExactFit,Braun,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0424,Gesundheit,Blutdruckmessgeräte,Sanitas Oberarm-Blutdruckmessgerät,Sanitas,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0425,Gesundheit,Blutdruckmessgeräte,Medisana Oberarm-Blutdruckmessgerät,Medisana,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0426,Gesundheit,Blutdruckmessgeräte,Omron Handgelenk-Blutdruckmessgerät,Omron,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0427,Gesundheit,Blutdruckmessgeräte,Beurer Handgelenk-Blutdruckmessgerät,Beurer,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0428,Gesundheit,Blutdruckmessgeräte,Braun Handgelenk-Blutdruckmessgerät,Braun,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0429,Gesundheit,Blutdruckmessgeräte,Withings BPM Connect,Withings,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0430,Gesundheit,Blutdruckmessgeräte,A&D Medical Oberarm-Blutdruckmessgerät,A&D,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0431,Gesundheit,Thermometer & Messgeräte,Braun ThermoScan Ohrthermometer,Braun,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0432,Gesundheit,Thermometer & Messgeräte,Braun No Touch Stirnthermometer,Braun,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0433,Gesundheit,Thermometer & Messgeräte,Beurer Infrarot-Thermometer,Beurer,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0434,Gesundheit,Thermometer & Messgeräte,Medisana Infrarot-Thermometer,Medisana,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0435,Gesundheit,Thermometer & Messgeräte,Sanitas Digitalthermometer,Sanitas,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0436,Gesundheit,Thermometer & Messgeräte,Geratherm Digitalthermometer,Geratherm,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0437,Gesundheit,Thermometer & Messgeräte,Omron Digitalthermometer,Omron,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0438,Gesundheit,Thermometer & Messgeräte,Braun Digitalthermometer,Braun,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0439,Gesundheit,Thermometer & Messgeräte,Beurer Pulsoximeter,Beurer,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0440,Gesundheit,Thermometer & Messgeräte,Medisana Pulsoximeter,Medisana,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0441,Gesundheit,Waagen & Körperanalyse,Withings Body Smart Waage,Withings,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0442,Gesundheit,Waagen & Körperanalyse,Withings Body Comp Waage,Withings,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0443,Gesundheit,Waagen & Körperanalyse,Beurer Körperanalysewaage,Beurer,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0444,Gesundheit,Waagen & Körperanalyse,Beurer Personenwaage Glas,Beurer,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0445,Gesundheit,Waagen & Körperanalyse,Soehnle Style Sense Waage,Soehnle,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0446,Gesundheit,Waagen & Körperanalyse,Soehnle Shape Sense Waage,Soehnle,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0447,Gesundheit,Waagen & Körperanalyse,Garmin Index S2 Waage,Garmin,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0448,Gesundheit,Waagen & Körperanalyse,Renpho Bluetooth Körperfettwaage,Renpho,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0449,Gesundheit,Waagen & Körperanalyse,Xiaomi Mi Body Composition Scale,Xiaomi,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0450,Gesundheit,Waagen & Körperanalyse,Eufy Smart Scale,Eufy,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0451,Gesundheit,Wärme & Entspannung,Beurer Heizkissen HK-Serie,Beurer,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0452,Gesundheit,Wärme & Entspannung,Beurer Wärmeunterbett UB-Serie,Beurer,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0453,Gesundheit,Wärme & Entspannung,Medisana Heizkissen,Medisana,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0454,Gesundheit,Wärme & Entspannung,Sanitas Heizkissen,Sanitas,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0455,Gesundheit,Wärme & Entspannung,Bosotherm Wärmflasche,Bosotherm,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0456,Gesundheit,Wärme & Entspannung,Fashy Wärmflasche 2 l,Fashy,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0457,Gesundheit,Wärme & Entspannung,Beurer Fußwärmer,Beurer,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0458,Gesundheit,Wärme & Entspannung,Medisana Fußwärmer,Medisana,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0459,Gesundheit,Wärme & Entspannung,Beurer Infrarotlampe,Beurer,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0460,Gesundheit,Wärme & Entspannung,Philips Infrarotlampe,Philips,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0461,Gesundheit,Massagegeräte,Beurer Massagepistole,Beurer,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0462,Gesundheit,Massagegeräte,Therabody Theragun Mini,Therabody,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0463,Gesundheit,Massagegeräte,Hyperice Hypervolt Massagepistole,Hyperice,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0464,Gesundheit,Massagegeräte,Medisana Nackenmassagegerät,Medisana,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0465,Gesundheit,Massagegeräte,Beurer Shiatsu Nackenmassagegerät,Beurer,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0466,Gesundheit,Massagegeräte,RENPHO Massagepistole,RENPHO,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0467,Gesundheit,Massagegeräte,Beurer Fußmassagegerät,Beurer,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0468,Gesundheit,Massagegeräte,Medisana Fußmassagegerät,Medisana,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0469,Gesundheit,Massagegeräte,HoMedics Massageauflage,HoMedics,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0470,Gesundheit,Massagegeräte,Blackroll Faszienrolle,Blackroll,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0471,Gesundheit,Erste Hilfe,Hansaplast Classic Pflaster 1 m,Hansaplast,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0472,Gesundheit,Erste Hilfe,Hansaplast Universal Pflaster 20er,Hansaplast,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0473,Gesundheit,Erste Hilfe,Hansaplast Sensitive Pflaster 20er,Hansaplast,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0474,Gesundheit,Erste Hilfe,Hartmann Verbandkasten DIN 13164,Hartmann,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0475,Gesundheit,Erste Hilfe,Söhngen Erste-Hilfe-Set,Söhngen,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0476,Gesundheit,Erste Hilfe,Leukoplast Fixierpflaster 5 m,Leukoplast,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0477,Gesundheit,Erste Hilfe,Sterillium Händedesinfektion 500 ml,Sterillium,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0478,Gesundheit,Erste Hilfe,Octenisept Wunddesinfektion 50 ml,Octenisept,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0479,Gesundheit,Erste Hilfe,Hansaplast Sprühpflaster,Hansaplast,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0480,Gesundheit,Erste Hilfe,Kalt-Warm-Kompresse 2er,Kalt-Warm-Kompresse,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0481,Gesundheit,Nasale Pflege & Inhalation,Emser Nasendusche Set,Emser,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0482,Gesundheit,Nasale Pflege & Inhalation,Emser Nasenspülsalz 20 Beutel,Emser,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0483,Gesundheit,Nasale Pflege & Inhalation,Otriven Meerwasser Nasenspray 20 ml,Otriven,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0484,Gesundheit,Nasale Pflege & Inhalation,Sterimar Meerwasser Nasenspray 50 ml,Sterimar,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0485,Gesundheit,Nasale Pflege & Inhalation,Pari Boy Inhalationsgerät,Pari,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0486,Gesundheit,Nasale Pflege & Inhalation,Beurer Inhalator IH-Serie,Beurer,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0487,Gesundheit,Nasale Pflege & Inhalation,Omron CompAir Inhalator,Omron,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0488,Gesundheit,Nasale Pflege & Inhalation,Medisana Inhalator IN-Serie,Medisana,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0489,Gesundheit,Nasale Pflege & Inhalation,Braun Nasensauger,Braun,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0490,Gesundheit,Nasale Pflege & Inhalation,NUK Nasensauger,NUK,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0491,Gesundheit,Fitness & Prävention,Blackroll Standard Faszienrolle,Blackroll,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0492,Gesundheit,Fitness & Prävention,TheraBand Übungsband mittel,TheraBand,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0493,Gesundheit,Fitness & Prävention,TheraBand Übungsband stark,TheraBand,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0494,Gesundheit,Fitness & Prävention,Schildkröt Fitnessmatte,Schildkröt,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0495,Gesundheit,Fitness & Prävention,Adidas Yogamatte,Adidas,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0496,Gesundheit,Fitness & Prävention,Decathlon Fitnessmatte,Decathlon,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0497,Gesundheit,Fitness & Prävention,Beurer Aktivitätstracker,Beurer,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0498,Gesundheit,Fitness & Prävention,Garmin Fitnessarmband,Garmin,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0499,Gesundheit,Fitness & Prävention,Fitbit Inspire Fitnessarmband,Fitbit,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
+BF-0500,Gesundheit,Fitness & Prävention,Polar Brustgurt Pulsmesser,Polar,,,,,,,,,CANDIDATE_UNVERIFIED,Modell/GTIN/Packungsgröße und Marktverfügbarkeit prüfen; nicht als Absatzrangliste interpretiert
